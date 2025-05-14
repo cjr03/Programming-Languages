@@ -1,2 +1,2 @@
-# Programming-Languages-Homework
-Homework completed for the Programming Languages course at Santa Clara University.
+# Programming Languages 
+Programs written in Scala, Java, Python, and C++ while studying Programming Languages.
